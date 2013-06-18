@@ -15,6 +15,7 @@ prose.io
   - 一緒
   	- いっしょ | together
   - 行きます
-  	- 行 | to go
+  	- 行きます | いきます
+  		- 行く | to go
     
   
